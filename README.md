@@ -9,4 +9,4 @@ I've created a theme inspired by Evernote color. Omnifocus has always been makin
 ### Todo
 * I'm not quite happy with the left sidebar but for now it does the job.
 
-![ScreenShot](https://github.com/ZeFish/Iris-Theme-OmniFocus/blob/master/Iris-v1.png)
+![ScreenShot](https://github.com/ZeFish/Iris-Theme-OmniFocus/blob/master/ScreenShot.png)
