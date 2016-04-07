@@ -5,6 +5,7 @@ Everything is in the gray and there is no absolute black or white.
 The left sidebar is darker to keep focus on the task even when it's displayed.
 
 Will try to keep it updated along with the future enhancement OmniGroup will add on the theme capabilities.
+
 Don't hesitate to give me your suggestion. I mainly having fun with this theme but I'm not in any way a professional designer.
 
 ### Feature
