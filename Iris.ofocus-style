@@ -7,53 +7,57 @@
 		<key>ArchiveExpectationsBarBottomColor</key>
 		<dict>
 			<key>a</key>
-			<real>0.20000000000000001</real>
+			<real>1</real>
 			<key>b</key>
-			<real>0.13999999999999996</real>
+			<real>0.37254901960784315</real>
 			<key>g</key>
-			<real>0.24751999999999993</real>
+			<real>0.33725490196078434</real>
 			<key>r</key>
-			<real>0.69999999999999996</real>
+			<real>0.28627450980392155</real>
 		</dict>
 		<key>ArchiveExpectationsBarButtonBottomColor</key>
 		<dict>
 			<key>a</key>
-			<real>0.20000000000000001</real>
+			<real>1</real>
 			<key>b</key>
-			<real>0.59999999999999998</real>
+			<real>0.50196078431372548</real>
 			<key>g</key>
-			<real>0.59999999999999998</real>
+			<real>0.34901960784313724</real>
 			<key>r</key>
-			<real>0.90000000000000002</real>
+			<real>0.18823529411764706</real>
 		</dict>
 		<key>ArchiveExpectationsBarButtonPressedBottomColor</key>
 		<dict>
 			<key>a</key>
-			<real>0.040000000000000001</real>
+			<real>1</real>
 			<key>b</key>
-			<real>0.10000000000000001</real>
+			<real>0.32941176470588235</real>
 			<key>g</key>
-			<real>0.10000000000000001</real>
+			<real>0.22745098039215686</real>
 			<key>r</key>
-			<real>0.40000000000000002</real>
+			<real>0.12156862745098039</real>
 		</dict>
 		<key>ArchiveExpectationsBarButtonPressedTopColor</key>
 		<dict>
 			<key>a</key>
-			<real>0.040000000000000001</real>
+			<real>1</real>
 			<key>b</key>
-			<real>0.29999999999999999</real>
+			<real>0.85882352941176465</real>
 			<key>g</key>
-			<real>0.29999999999999999</real>
+			<real>0.59999999999999998</real>
 			<key>r</key>
-			<real>0.69999999999999996</real>
+			<real>0.32549019607843138</real>
 		</dict>
 		<key>ArchiveExpectationsBarButtonTextColor</key>
 		<dict>
 			<key>a</key>
-			<real>0.65000000000000002</real>
-			<key>w</key>
-			<real>0.0</real>
+			<real>1</real>
+			<key>b</key>
+			<real>0.84705882352941175</real>
+			<key>g</key>
+			<real>0.81568627450980391</real>
+			<key>r</key>
+			<real>0.77647058823529413</real>
 		</dict>
 		<key>ArchiveExpectationsBarButtonTextShadowColor</key>
 		<dict>
@@ -65,27 +69,31 @@
 		<key>ArchiveExpectationsBarButtonTopColor</key>
 		<dict>
 			<key>a</key>
-			<real>0.20000000000000001</real>
-			<key>b</key>
-			<real>0.80000000000000004</real>
-			<key>g</key>
-			<real>0.80000000000000004</real>
-			<key>r</key>
 			<real>1</real>
+			<key>b</key>
+			<real>0.97647058823529409</real>
+			<key>g</key>
+			<real>0.68235294117647061</real>
+			<key>r</key>
+			<real>0.38039215686274508</real>
 		</dict>
 		<key>ArchiveExpectationsBarGrooveColor</key>
 		<dict>
 			<key>a</key>
-			<real>0.20000000000000001</real>
+			<real>0.0</real>
 			<key>w</key>
 			<real>0.0</real>
 		</dict>
 		<key>ArchiveExpectationsBarTextColor</key>
 		<dict>
 			<key>a</key>
-			<real>0.65000000000000002</real>
-			<key>w</key>
-			<real>0.0</real>
+			<real>1</real>
+			<key>b</key>
+			<real>0.84705882349999995</real>
+			<key>g</key>
+			<real>0.81568627449999997</real>
+			<key>r</key>
+			<real>0.77647058820000003</real>
 		</dict>
 		<key>ArchiveExpectationsBarTextShadowColor</key>
 		<dict>
@@ -97,64 +105,68 @@
 		<key>ArchiveExpectationsBarTopColor</key>
 		<dict>
 			<key>a</key>
-			<real>0.10000000000000001</real>
+			<real>1</real>
 			<key>b</key>
-			<real>0.13999999999999996</real>
+			<real>0.37254901960784315</real>
 			<key>g</key>
-			<real>0.24751999999999993</real>
+			<real>0.33725490196078434</real>
 			<key>r</key>
-			<real>0.69999999999999996</real>
+			<real>0.28627450980392155</real>
 		</dict>
 		<key>BackupExpectationsBarBottomColor</key>
 		<dict>
 			<key>a</key>
-			<real>0.59999999999999998</real>
-			<key>b</key>
-			<real>0.5</real>
-			<key>g</key>
-			<real>0.85999999999999999</real>
-			<key>r</key>
 			<real>1</real>
+			<key>b</key>
+			<real>0.37254901960784315</real>
+			<key>g</key>
+			<real>0.33725490196078434</real>
+			<key>r</key>
+			<real>0.28627450980392155</real>
 		</dict>
 		<key>BackupExpectationsBarButtonBottomColor</key>
 		<dict>
 			<key>a</key>
-			<real>0.80000000000000004</real>
-			<key>b</key>
-			<real>0.40000000000000002</real>
-			<key>g</key>
-			<real>0.76000000000000001</real>
-			<key>r</key>
 			<real>1</real>
+			<key>b</key>
+			<real>0.50196078431372548</real>
+			<key>g</key>
+			<real>0.34901960784313724</real>
+			<key>r</key>
+			<real>0.18823529411764706</real>
 		</dict>
 		<key>BackupExpectationsBarButtonPressedBottomColor</key>
 		<dict>
 			<key>a</key>
-			<real>0.80000000000000004</real>
+			<real>1</real>
 			<key>b</key>
-			<real>0.22500000000000003</real>
+			<real>0.32941176470588235</real>
 			<key>g</key>
-			<real>0.42974999999999997</real>
+			<real>0.22745098039215686</real>
 			<key>r</key>
-			<real>0.75</real>
+			<real>0.12156862745098039</real>
 		</dict>
 		<key>BackupExpectationsBarButtonPressedTopColor</key>
 		<dict>
 			<key>a</key>
-			<real>0.59999999999999998</real>
+			<real>1</real>
 			<key>b</key>
-			<real>0.22500000000000003</real>
+			<real>0.85882352941176465</real>
 			<key>g</key>
-			<real>0.42974999999999997</real>
+			<real>0.59999999999999998</real>
 			<key>r</key>
-			<real>0.75</real>
+			<real>0.32549019607843138</real>
 		</dict>
 		<key>BackupExpectationsBarButtonTextColor</key>
 		<dict>
 			<key>a</key>
-			<real>0.65000000000000002</real>
-			<key>w</key>
-			<real>0.0</real>
+			<real>1</real>
+			<key>b</key>
+			<real>0.84705882352941175</real>
+			<key>g</key>
+			<real>0.81568627450980391</real>
+			<key>r</key>
+			<real>0.77647058823529413</real>
 		</dict>
 		<key>BackupExpectationsBarButtonTextShadowColor</key>
 		<dict>
@@ -166,27 +178,31 @@
 		<key>BackupExpectationsBarButtonTopColor</key>
 		<dict>
 			<key>a</key>
-			<real>0.69999999999999996</real>
-			<key>b</key>
-			<real>0.40000000000000002</real>
-			<key>g</key>
-			<real>0.76000000000000001</real>
-			<key>r</key>
 			<real>1</real>
+			<key>b</key>
+			<real>0.97647058823529409</real>
+			<key>g</key>
+			<real>0.68235294117647061</real>
+			<key>r</key>
+			<real>0.38039215686274508</real>
 		</dict>
 		<key>BackupExpectationsBarGrooveColor</key>
 		<dict>
 			<key>a</key>
-			<real>0.20000000000000001</real>
+			<real>0.0</real>
 			<key>w</key>
 			<real>0.0</real>
 		</dict>
 		<key>BackupExpectationsBarTextColor</key>
 		<dict>
 			<key>a</key>
-			<real>0.65000000000000002</real>
-			<key>w</key>
-			<real>0.0</real>
+			<real>1</real>
+			<key>b</key>
+			<real>0.84705882349999995</real>
+			<key>g</key>
+			<real>0.81568627449999997</real>
+			<key>r</key>
+			<real>0.77647058820000003</real>
 		</dict>
 		<key>BackupExpectationsBarTextShadowColor</key>
 		<dict>
@@ -198,13 +214,13 @@
 		<key>BackupExpectationsBarTopColor</key>
 		<dict>
 			<key>a</key>
-			<real>0.40000000000000002</real>
-			<key>b</key>
-			<real>0.5</real>
-			<key>g</key>
-			<real>0.85999999999999999</real>
-			<key>r</key>
 			<real>1</real>
+			<key>b</key>
+			<real>0.37254901960784315</real>
+			<key>g</key>
+			<real>0.33725490196078434</real>
+			<key>r</key>
+			<real>0.28627450980392155</real>
 		</dict>
 		<key>ContentBackgroundColor</key>
 		<dict>
@@ -276,16 +292,16 @@
 					<key>a</key>
 					<real>1</real>
 					<key>b</key>
-					<real>0.29803921570000003</real>
-					<key>g</key>
-					<real>0.2784313725</real>
-					<key>r</key>
 					<real>0.24313725489999999</real>
+					<key>g</key>
+					<real>0.2274509804</real>
+					<key>r</key>
+					<real>0.1960784314</real>
 				</dict>
 				<key>Normal</key>
 				<dict>
 					<key>a</key>
-					<real>0.2029094827586207</real>
+					<real>0.19558809432515337</real>
 					<key>b</key>
 					<real>0.24313725489999999</real>
 					<key>g</key>
@@ -303,9 +319,13 @@
 				<key>Pressed</key>
 				<dict>
 					<key>a</key>
-					<real>0.59999999999999998</real>
-					<key>w</key>
-					<real>0.0</real>
+					<real>1</real>
+					<key>b</key>
+					<real>0.24313725489999999</real>
+					<key>g</key>
+					<real>0.2274509804</real>
+					<key>r</key>
+					<real>0.1960784314</real>
 				</dict>
 				<key>Strong</key>
 				<dict>
@@ -369,16 +389,24 @@
 		<key>ContentNoContentColor</key>
 		<dict>
 			<key>a</key>
-			<real>0.40000000000000002</real>
-			<key>w</key>
-			<real>0.0</real>
+			<real>1</real>
+			<key>b</key>
+			<real>0.84705882349999995</real>
+			<key>g</key>
+			<real>0.81568627449999997</real>
+			<key>r</key>
+			<real>0.77647058820000003</real>
 		</dict>
 		<key>ContentNoContentImageTintColor</key>
 		<dict>
 			<key>a</key>
-			<real>0.5</real>
-			<key>w</key>
-			<real>0.5</real>
+			<real>1</real>
+			<key>b</key>
+			<real>0.84705882349999995</real>
+			<key>g</key>
+			<real>0.81568627449999997</real>
+			<key>r</key>
+			<real>0.77647058820000003</real>
 		</dict>
 		<key>ContentSelectionColorAlphaComponentColor</key>
 		<dict>
@@ -397,7 +425,7 @@
 		<key>ContentStatusBarBackgroundColor</key>
 		<dict>
 			<key>a</key>
-			<real>1</real>
+			<real>0.0</real>
 			<key>b</key>
 			<real>0.93725490196078431</real>
 			<key>g</key>
@@ -426,16 +454,24 @@
 		<key>ContentTableRowDisclosureHandleTintColor</key>
 		<dict>
 			<key>a</key>
-			<real>1</real>
-			<key>w</key>
-			<real>0.0</real>
+			<real>0.40000000000000002</real>
+			<key>b</key>
+			<real>0.24313725489999999</real>
+			<key>g</key>
+			<real>0.2274509804</real>
+			<key>r</key>
+			<real>0.1960784314</real>
 		</dict>
 		<key>ContentTableRowNoteIconTintColor</key>
 		<dict>
 			<key>a</key>
 			<real>1</real>
-			<key>w</key>
-			<real>0.0</real>
+			<key>b</key>
+			<real>0.24313725489999999</real>
+			<key>g</key>
+			<real>0.2274509804</real>
+			<key>r</key>
+			<real>0.1960784314</real>
 		</dict>
 		<key>DropIndicatorColor</key>
 		<dict>
@@ -531,49 +567,57 @@
 		<key>FocusExpectationsBarBottomColor</key>
 		<dict>
 			<key>a</key>
-			<real>0.12</real>
-			<key>w</key>
-			<real>0.0</real>
+			<real>1</real>
+			<key>b</key>
+			<real>0.37033629420000003</real>
+			<key>g</key>
+			<real>0.3370568156</real>
+			<key>r</key>
+			<real>0.28814557190000001</real>
 		</dict>
 		<key>FocusExpectationsBarButtonBottomColor</key>
 		<dict>
 			<key>a</key>
-			<real>0.80000000000000004</real>
+			<real>1</real>
 			<key>b</key>
-			<real>0.40000000000000002</real>
+			<real>0.5</real>
 			<key>g</key>
-			<real>0.13999999999999999</real>
+			<real>0.3483156611127608</real>
 			<key>r</key>
-			<real>0.27000000000000002</real>
+			<real>0.19051580161441972</real>
 		</dict>
 		<key>FocusExpectationsBarButtonPressedBottomColor</key>
 		<dict>
 			<key>a</key>
-			<real>0.59999999999999998</real>
+			<real>1</real>
 			<key>b</key>
-			<real>0.20000000000000001</real>
+			<real>0.3258896587128205</real>
 			<key>g</key>
-			<real>0.069999999999999993</real>
+			<real>0.22702494384873612</real>
 			<key>r</key>
-			<real>0.13500000000000001</real>
+			<real>0.12417425913504532</real>
 		</dict>
 		<key>FocusExpectationsBarButtonPressedTopColor</key>
 		<dict>
 			<key>a</key>
-			<real>0.40000000000000002</real>
+			<real>1</real>
 			<key>b</key>
-			<real>0.59999999999999998</real>
+			<real>0.85942331255897431</real>
 			<key>g</key>
-			<real>0.20999999999999999</real>
+			<real>0.59870119857939597</real>
 			<key>r</key>
-			<real>0.40500000000000003</real>
+			<real>0.32746744263658595</real>
 		</dict>
 		<key>FocusExpectationsBarButtonTextColor</key>
 		<dict>
 			<key>a</key>
 			<real>1</real>
-			<key>w</key>
-			<real>1</real>
+			<key>b</key>
+			<real>0.84705882349999995</real>
+			<key>g</key>
+			<real>0.81568627449999997</real>
+			<key>r</key>
+			<real>0.77647058820000003</real>
 		</dict>
 		<key>FocusExpectationsBarButtonTextShadowColor</key>
 		<dict>
@@ -585,27 +629,31 @@
 		<key>FocusExpectationsBarButtonTopColor</key>
 		<dict>
 			<key>a</key>
-			<real>0.59999999999999998</real>
+			<real>1</real>
 			<key>b</key>
-			<real>0.83799999999999997</real>
+			<real>0.97647058819999999</real>
 			<key>g</key>
-			<real>0.29329999999999995</real>
+			<real>0.68235294120000001</real>
 			<key>r</key>
-			<real>0.56564999999999999</real>
+			<real>0.3803921569</real>
 		</dict>
 		<key>FocusExpectationsBarGrooveColor</key>
 		<dict>
 			<key>a</key>
-			<real>0.20000000000000001</real>
+			<real>0.0</real>
 			<key>w</key>
 			<real>0.0</real>
 		</dict>
 		<key>FocusExpectationsBarTextColor</key>
 		<dict>
 			<key>a</key>
-			<real>0.65000000000000002</real>
-			<key>w</key>
-			<real>0.0</real>
+			<real>1</real>
+			<key>b</key>
+			<real>0.84705882349999995</real>
+			<key>g</key>
+			<real>0.81568627449999997</real>
+			<key>r</key>
+			<real>0.77647058820000003</real>
 		</dict>
 		<key>FocusExpectationsBarTextShadowColor</key>
 		<dict>
@@ -617,9 +665,13 @@
 		<key>FocusExpectationsBarTopColor</key>
 		<dict>
 			<key>a</key>
-			<real>0.080000000000000002</real>
-			<key>w</key>
-			<real>0.0</real>
+			<real>1</real>
+			<key>b</key>
+			<real>0.37033629420000003</real>
+			<key>g</key>
+			<real>0.3370568156</real>
+			<key>r</key>
+			<real>0.28814557190000001</real>
 		</dict>
 		<key>ForecastEventTimelineElapsedTimeIndicatorFillColor</key>
 		<dict>
@@ -666,44 +718,60 @@
 		<key>ForecastEventTimelineGridlineLabelColor</key>
 		<dict>
 			<key>a</key>
-			<real>1</real>
-			<key>w</key>
-			<real>0.75</real>
+			<real>0.20000000000000001</real>
+			<key>b</key>
+			<real>0.24313725489999999</real>
+			<key>g</key>
+			<real>0.2274509804</real>
+			<key>r</key>
+			<real>0.1960784314</real>
 		</dict>
 		<key>ForecastEventTimelineMajorGridlineColor</key>
 		<dict>
 			<key>a</key>
-			<real>1</real>
-			<key>w</key>
-			<real>0.84999999999999998</real>
+			<real>0.20000000000000001</real>
+			<key>b</key>
+			<real>0.24313725489999999</real>
+			<key>g</key>
+			<real>0.2274509804</real>
+			<key>r</key>
+			<real>0.1960784314</real>
 		</dict>
 		<key>ForecastEventTimelineMinorGridlineColor</key>
 		<dict>
 			<key>a</key>
-			<real>1</real>
-			<key>w</key>
-			<real>0.90000000000000002</real>
+			<real>0.10000000000000001</real>
+			<key>b</key>
+			<real>0.24313725489999999</real>
+			<key>g</key>
+			<real>0.2274509804</real>
+			<key>r</key>
+			<real>0.1960784314</real>
 		</dict>
 		<key>ForecastSidebarCellBackgroundColor</key>
 		<dict>
 			<key>a</key>
-			<real>0.040000000000000001</real>
-			<key>w</key>
+			<real>0.029999999999999999</real>
+			<key>b</key>
+			<real>0.0</real>
+			<key>g</key>
+			<real>0.0</real>
+			<key>r</key>
 			<real>0.0</real>
 		</dict>
 		<key>ForecastSidebarCellBadgeBlendBackgroundColor</key>
 		<dict>
 			<key>a</key>
-			<real>1</real>
+			<real>0.25045532975460122</real>
 			<key>w</key>
-			<real>1</real>
+			<real>0.5</real>
 		</dict>
 		<key>ForecastSidebarCellBadgeBlendSelectionColor</key>
 		<dict>
 			<key>a</key>
 			<real>1</real>
 			<key>w</key>
-			<real>1</real>
+			<real>0.5</real>
 		</dict>
 		<key>ForecastSidebarCellBorderColor</key>
 		<dict>
@@ -734,8 +802,12 @@
 		<dict>
 			<key>a</key>
 			<real>1</real>
-			<key>w</key>
-			<real>1</real>
+			<key>b</key>
+			<real>0.24313725489999999</real>
+			<key>g</key>
+			<real>0.2274509804</real>
+			<key>r</key>
+			<real>0.1960784314</real>
 		</dict>
 		<key>ForecastSidebarCellNonKeySelectionColor</key>
 		<dict>
@@ -754,85 +826,97 @@
 		<key>ForeignDatabaseExpectationsBarBottomColor</key>
 		<dict>
 			<key>a</key>
-			<real>0.29999999999999999</real>
-			<key>b</key>
 			<real>1</real>
+			<key>b</key>
+			<real>0.37033629420000003</real>
 			<key>g</key>
-			<real>0.7300000000000002</real>
+			<real>0.3370568156</real>
 			<key>r</key>
-			<real>0.40000000000000002</real>
+			<real>0.28814557190000001</real>
 		</dict>
 		<key>ForeignDatabaseExpectationsBarButtonBottomColor</key>
 		<dict>
 			<key>a</key>
-			<real>0.59999999999999998</real>
-			<key>b</key>
 			<real>1</real>
+			<key>b</key>
+			<real>0.50196078431372548</real>
 			<key>g</key>
-			<real>0.7300000000000002</real>
+			<real>0.34901960784313724</real>
 			<key>r</key>
-			<real>0.40000000000000002</real>
+			<real>0.18823529411764706</real>
 		</dict>
 		<key>ForeignDatabaseExpectationsBarButtonPressedBottomColor</key>
 		<dict>
 			<key>a</key>
-			<real>0.59999999999999998</real>
-			<key>b</key>
 			<real>1</real>
+			<key>b</key>
+			<real>0.32941176470588235</real>
 			<key>g</key>
-			<real>0.7300000000000002</real>
+			<real>0.22745098039215686</real>
 			<key>r</key>
-			<real>0.40000000000000002</real>
+			<real>0.12156862745098039</real>
 		</dict>
 		<key>ForeignDatabaseExpectationsBarButtonPressedTopColor</key>
 		<dict>
 			<key>a</key>
-			<real>0.59999999999999998</real>
-			<key>b</key>
 			<real>1</real>
+			<key>b</key>
+			<real>0.50196078431372548</real>
 			<key>g</key>
-			<real>0.7300000000000002</real>
+			<real>0.34901960784313724</real>
 			<key>r</key>
-			<real>0.40000000000000002</real>
+			<real>0.18823529411764706</real>
 		</dict>
 		<key>ForeignDatabaseExpectationsBarButtonTextColor</key>
 		<dict>
 			<key>a</key>
-			<real>0.65000000000000002</real>
-			<key>w</key>
-			<real>0.0</real>
+			<real>1</real>
+			<key>b</key>
+			<real>0.84705882352941175</real>
+			<key>g</key>
+			<real>0.81568627450980391</real>
+			<key>r</key>
+			<real>0.77647058823529413</real>
 		</dict>
 		<key>ForeignDatabaseExpectationsBarButtonTextShadowColor</key>
 		<dict>
 			<key>a</key>
 			<real>0.0</real>
-			<key>w</key>
+			<key>b</key>
+			<real>1</real>
+			<key>g</key>
+			<real>1</real>
+			<key>r</key>
 			<real>1</real>
 		</dict>
 		<key>ForeignDatabaseExpectationsBarButtonTopColor</key>
 		<dict>
 			<key>a</key>
-			<real>0.59999999999999998</real>
-			<key>b</key>
 			<real>1</real>
+			<key>b</key>
+			<real>0.97647058823529409</real>
 			<key>g</key>
-			<real>0.7300000000000002</real>
+			<real>0.68235294117647061</real>
 			<key>r</key>
-			<real>0.40000000000000002</real>
+			<real>0.38039215686274508</real>
 		</dict>
 		<key>ForeignDatabaseExpectationsBarGrooveColor</key>
 		<dict>
 			<key>a</key>
-			<real>0.29999999999999999</real>
+			<real>0.0</real>
 			<key>w</key>
 			<real>0.0</real>
 		</dict>
 		<key>ForeignDatabaseExpectationsBarTextColor</key>
 		<dict>
 			<key>a</key>
-			<real>0.65000000000000002</real>
-			<key>w</key>
-			<real>0.0</real>
+			<real>1</real>
+			<key>b</key>
+			<real>0.84705882349999995</real>
+			<key>g</key>
+			<real>0.81568627449999997</real>
+			<key>r</key>
+			<real>0.77647058820000003</real>
 		</dict>
 		<key>ForeignDatabaseExpectationsBarTextShadowColor</key>
 		<dict>
@@ -844,13 +928,13 @@
 		<key>ForeignDatabaseExpectationsBarTopColor</key>
 		<dict>
 			<key>a</key>
-			<real>0.20000000000000001</real>
-			<key>b</key>
 			<real>1</real>
+			<key>b</key>
+			<real>0.37033629420000003</real>
 			<key>g</key>
-			<real>0.7300000000000002</real>
+			<real>0.3370568156</real>
 			<key>r</key>
-			<real>0.40000000000000002</real>
+			<real>0.28814557190000001</real>
 		</dict>
 		<key>ImageTintColor</key>
 		<dict>
@@ -1030,13 +1114,13 @@
 		<key>OFIBadgeDueSoonBackgroundColor</key>
 		<dict>
 			<key>a</key>
-			<real>0.20000000000000001</real>
+			<real>1</real>
 			<key>b</key>
-			<real>0.84705882349999995</real>
+			<real>0.5050362933282051</real>
 			<key>g</key>
-			<real>0.81568627449999997</real>
+			<real>0.35182410079310389</real>
 			<key>r</key>
-			<real>0.77647058820000003</real>
+			<real>0.19243478853559642</real>
 		</dict>
 		<key>OFIBadgeDueSoonForegroundColor</key>
 		<dict>
@@ -1098,13 +1182,13 @@
 		<key>OFIBadgeOverdueBackgroundColor</key>
 		<dict>
 			<key>a</key>
-			<real>0.20000000000000001</real>
+			<real>1</real>
 			<key>b</key>
-			<real>0.32313296200000002</real>
+			<real>0.096887999073647951</real>
 			<key>g</key>
-			<real>0.070361979310000003</real>
+			<real>0.021022159034414539</real>
 			<key>r</key>
-			<real>0.90668261049999999</real>
+			<real>0.26538461538461533</real>
 		</dict>
 		<key>OFIBadgeOverdueForegroundColor</key>
 		<dict>
@@ -1145,7 +1229,7 @@
 		<key>OFIContentBlockedTaskTitleColor</key>
 		<dict>
 			<key>a</key>
-			<real>0.5</real>
+			<real>0.40000000000000002</real>
 			<key>b</key>
 			<real>0.24313725489999999</real>
 			<key>g</key>
@@ -1156,9 +1240,13 @@
 		<key>OFIContentCompletedTaskTitleColor</key>
 		<dict>
 			<key>a</key>
-			<real>1</real>
-			<key>w</key>
-			<real>0.41999999999999998</real>
+			<real>0.40000000000000002</real>
+			<key>b</key>
+			<real>0.24313725489999999</real>
+			<key>g</key>
+			<real>0.2274509804</real>
+			<key>r</key>
+			<real>0.1960784314</real>
 		</dict>
 		<key>OFIContentDefaultTaskTitleColor</key>
 		<dict>
@@ -1207,45 +1295,57 @@
 		<key>OFIContentPlaceholderTaskTitleColor</key>
 		<dict>
 			<key>a</key>
-			<real>0.20000000000000001</real>
-			<key>w</key>
-			<real>0.0</real>
+			<real>1</real>
+			<key>b</key>
+			<real>0.24313725489999999</real>
+			<key>g</key>
+			<real>0.2274509804</real>
+			<key>r</key>
+			<real>0.1960784314</real>
 		</dict>
 		<key>OFIContentTableGridColor</key>
 		<dict>
 			<key>a</key>
-			<real>0.040000000000000001</real>
+			<real>0.050000000000000003</real>
 			<key>b</key>
-			<real>0.0</real>
+			<real>0.24313725489999999</real>
 			<key>g</key>
-			<real>0.0</real>
+			<real>0.2274509804</real>
 			<key>r</key>
-			<real>0.0</real>
+			<real>0.1960784314</real>
 		</dict>
 		<key>OFIFadedTextColor</key>
 		<dict>
 			<key>a</key>
 			<real>1</real>
-			<key>w</key>
-			<real>0.41999999999999998</real>
+			<key>b</key>
+			<real>0.24313725489999999</real>
+			<key>g</key>
+			<real>0.2274509804</real>
+			<key>r</key>
+			<real>0.1960784314</real>
 		</dict>
 		<key>OFIForecastSubsectionHeaderBackgroundColor</key>
 		<dict>
 			<key>a</key>
 			<real>1</real>
-			<key>w</key>
-			<real>0.94999999999999996</real>
+			<key>b</key>
+			<real>0.93725490196078431</real>
+			<key>g</key>
+			<real>0.93725490196078431</real>
+			<key>r</key>
+			<real>0.93725490196078431</real>
 		</dict>
 		<key>OFIForecastSubsectionHeaderTextColor</key>
 		<dict>
 			<key>a</key>
-			<real>1</real>
+			<real>0.20000000000000001</real>
 			<key>b</key>
-			<real>0.29803921570000003</real>
-			<key>g</key>
-			<real>0.2784313725</real>
-			<key>r</key>
 			<real>0.24313725489999999</real>
+			<key>g</key>
+			<real>0.2274509804</real>
+			<key>r</key>
+			<real>0.1960784314</real>
 		</dict>
 		<key>OFIGroupHeaderBackgroundColor</key>
 		<dict>
@@ -1305,18 +1405,22 @@
 		<key>OFIStrongTextColor</key>
 		<dict>
 			<key>a</key>
-			<real>1</real>
-			<key>w</key>
-			<real>0.0</real>
+			<real>0.20000000000000001</real>
+			<key>b</key>
+			<real>0.24313725489999999</real>
+			<key>g</key>
+			<real>0.2274509804</real>
+			<key>r</key>
+			<real>0.1960784314</real>
 		</dict>
 		<key>PerspectiveHighlightColor</key>
 		<dict>
 			<key>Flagged</key>
 			<dict>
 				<key>a</key>
-				<real>0.5</real>
+				<real>1</real>
 				<key>b</key>
-				<real>0.30000000000000004</real>
+				<real>0.29999999999999999</real>
 				<key>g</key>
 				<real>0.56879999999999997</real>
 				<key>r</key>
@@ -1325,7 +1429,7 @@
 			<key>Forecast:DueSoon</key>
 			<dict>
 				<key>a</key>
-				<real>0.20000000000000001</real>
+				<real>1</real>
 				<key>b</key>
 				<real>0.97647058819999999</real>
 				<key>g</key>
@@ -1336,7 +1440,7 @@
 			<key>Forecast:Overdue</key>
 			<dict>
 				<key>a</key>
-				<real>0.20000000000000001</real>
+				<real>1</real>
 				<key>b</key>
 				<real>0.32313296200000002</real>
 				<key>g</key>
@@ -1347,24 +1451,24 @@
 			<key>Inbox</key>
 			<dict>
 				<key>a</key>
-				<real>0.5</real>
+				<real>1</real>
 				<key>b</key>
-				<real>0.65100000000000002</real>
+				<real>0.97647058819999999</real>
 				<key>g</key>
-				<real>0.49014310799999994</real>
+				<real>0.68235294120000001</real>
 				<key>r</key>
-				<real>0.42380100000000004</real>
+				<real>0.3803921569</real>
 			</dict>
 			<key>Review</key>
 			<dict>
 				<key>a</key>
-				<real>0.5</real>
+				<real>1</real>
 				<key>b</key>
-				<real>0.14331199999999997</real>
+				<real>0.97647058819999999</real>
 				<key>g</key>
-				<real>0.24808409599999995</real>
+				<real>0.68235294120000001</real>
 				<key>r</key>
-				<real>0.68899999999999995</real>
+				<real>0.3803921569</real>
 			</dict>
 		</dict>
 		<key>PerspectiveListSelectionColorAlphaComponentColor</key>
@@ -1388,13 +1492,13 @@
 		<key>SidebarBorderColor</key>
 		<dict>
 			<key>a</key>
-			<real>1</real>
+			<real>0.19954202586206896</real>
 			<key>b</key>
-			<real>0.5</real>
+			<real>0.84705882349999995</real>
 			<key>g</key>
-			<real>0.45161255729437905</real>
+			<real>0.81568627449999997</real>
 			<key>r</key>
-			<real>0.3859833004939901</real>
+			<real>0.77647058820000003</real>
 		</dict>
 		<key>SidebarContextsTintColor</key>
 		<dict>
@@ -1527,8 +1631,12 @@
 		<key>SidebarTabHighlightBackgroundColor</key>
 		<dict>
 			<key>a</key>
-			<real>0.14999999999999999</real>
-			<key>w</key>
+			<real>0.10094288793103448</real>
+			<key>b</key>
+			<real>0.0</real>
+			<key>g</key>
+			<real>0.0</real>
+			<key>r</key>
 			<real>0.0</real>
 		</dict>
 		<key>SidebarTabHighlightIndicatorBlendColor</key>
@@ -1602,9 +1710,13 @@
 		<key>StatusCircleEdgeStrokeColor</key>
 		<dict>
 			<key>a</key>
-			<real>0.02</real>
-			<key>w</key>
-			<real>0.0</real>
+			<real>0.10000000000000001</real>
+			<key>b</key>
+			<real>0.24313725489999999</real>
+			<key>g</key>
+			<real>0.2274509804</real>
+			<key>r</key>
+			<real>0.1960784314</real>
 		</dict>
 		<key>StatusCircleFlaggedColor</key>
 		<dict>
@@ -1620,16 +1732,24 @@
 		<key>StatusCircleHoverTintColor</key>
 		<dict>
 			<key>a</key>
-			<real>0.49553340517241379</real>
-			<key>w</key>
-			<real>0.0</real>
+			<real>0.19637893021472394</real>
+			<key>b</key>
+			<real>0.24313725489999999</real>
+			<key>g</key>
+			<real>0.2274509804</real>
+			<key>r</key>
+			<real>0.1960784314</real>
 		</dict>
 		<key>StatusCircleNormalColor</key>
 		<dict>
 			<key>a</key>
-			<real>1</real>
-			<key>w</key>
-			<real>0.84999999999999998</real>
+			<real>0.097383052147239274</real>
+			<key>b</key>
+			<real>0.24313725489999999</real>
+			<key>g</key>
+			<real>0.2274509804</real>
+			<key>r</key>
+			<real>0.1960784314</real>
 		</dict>
 		<key>StatusCircleOverdueColor</key>
 		<dict>
@@ -1646,22 +1766,34 @@
 		<dict>
 			<key>a</key>
 			<real>1</real>
-			<key>w</key>
-			<real>0.20000000000000001</real>
+			<key>b</key>
+			<real>0.93725490196078431</real>
+			<key>g</key>
+			<real>0.93725490196078431</real>
+			<key>r</key>
+			<real>0.93725490196078431</real>
 		</dict>
 		<key>StatusCirclePressingGradientEdgeColor</key>
 		<dict>
 			<key>a</key>
-			<real>0.0</real>
-			<key>w</key>
 			<real>1</real>
+			<key>b</key>
+			<real>0.24313725489999999</real>
+			<key>g</key>
+			<real>0.2274509804</real>
+			<key>r</key>
+			<real>0.1960784314</real>
 		</dict>
 		<key>StatusCircleRepeatDotColor</key>
 		<dict>
 			<key>a</key>
-			<real>1</real>
-			<key>w</key>
-			<real>0.69499999999999995</real>
+			<real>0.20000000000000001</real>
+			<key>b</key>
+			<real>0.24313725489999999</real>
+			<key>g</key>
+			<real>0.2274509804</real>
+			<key>r</key>
+			<real>0.1960784314</real>
 		</dict>
 		<key>TextFieldHighlight</key>
 		<dict>
@@ -1683,7 +1815,7 @@
 					<key>Normal</key>
 					<dict>
 						<key>a</key>
-						<real>0.20000000000000001</real>
+						<real>0.0</real>
 						<key>b</key>
 						<real>0.97647058819999999</real>
 						<key>g</key>
@@ -1737,7 +1869,7 @@
 					<key>Normal</key>
 					<dict>
 						<key>a</key>
-						<real>0.20000000000000001</real>
+						<real>0.0</real>
 						<key>b</key>
 						<real>0.32313296200000002</real>
 						<key>g</key>
