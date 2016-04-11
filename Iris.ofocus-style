@@ -411,16 +411,24 @@
 		<key>ContentSelectionColorAlphaComponentColor</key>
 		<dict>
 			<key>a</key>
-			<real>0.34999999999999998</real>
-			<key>w</key>
-			<real>0.0</real>
+			<real>0.20000000000000001</real>
+			<key>b</key>
+			<real>0.24313725489999999</real>
+			<key>g</key>
+			<real>0.2274509804</real>
+			<key>r</key>
+			<real>0.1960784314</real>
 		</dict>
 		<key>ContentSelectionEdgeColorAlphaComponentColor</key>
 		<dict>
 			<key>a</key>
-			<real>1</real>
-			<key>w</key>
 			<real>0.0</real>
+			<key>b</key>
+			<real>0.24313725489999999</real>
+			<key>g</key>
+			<real>0.2274509804</real>
+			<key>r</key>
+			<real>0.1960784314</real>
 		</dict>
 		<key>ContentStatusBarBackgroundColor</key>
 		<dict>
@@ -676,44 +684,68 @@
 		<key>ForecastEventTimelineElapsedTimeIndicatorFillColor</key>
 		<dict>
 			<key>a</key>
-			<real>0.65000000000000002</real>
-			<key>w</key>
-			<real>1</real>
+			<real>0.69999999999999996</real>
+			<key>b</key>
+			<real>0.93725490196078431</real>
+			<key>g</key>
+			<real>0.93725490196078431</real>
+			<key>r</key>
+			<real>0.93725490196078431</real>
 		</dict>
 		<key>ForecastEventTimelineElapsedTimeIndicatorStrokeColor</key>
 		<dict>
 			<key>a</key>
-			<real>0.29999999999999999</real>
-			<key>w</key>
-			<real>0.0</real>
+			<real>0.40000000000000002</real>
+			<key>b</key>
+			<real>0.24313725490196078</real>
+			<key>g</key>
+			<real>0.22745098039215686</real>
+			<key>r</key>
+			<real>0.19607843137254902</real>
 		</dict>
 		<key>ForecastEventTimelineEventCellChevronAlphaComponentColor</key>
 		<dict>
 			<key>a</key>
-			<real>0.84999999999999998</real>
-			<key>w</key>
 			<real>0.0</real>
+			<key>b</key>
+			<real>0.24313725489999999</real>
+			<key>g</key>
+			<real>0.2274509804</real>
+			<key>r</key>
+			<real>0.1960784314</real>
 		</dict>
 		<key>ForecastEventTimelineEventCellChevronHighlightColor</key>
 		<dict>
 			<key>a</key>
-			<real>0.125</real>
-			<key>w</key>
-			<real>0.0</real>
+			<real>0.10000000000000001</real>
+			<key>b</key>
+			<real>0.24313725489999999</real>
+			<key>g</key>
+			<real>0.2274509804</real>
+			<key>r</key>
+			<real>0.1960784314</real>
 		</dict>
 		<key>ForecastEventTimelineEventCellFillAlphaComponentColor</key>
 		<dict>
 			<key>a</key>
-			<real>0.14999999999999999</real>
-			<key>w</key>
 			<real>0.0</real>
+			<key>b</key>
+			<real>0.24313725489999999</real>
+			<key>g</key>
+			<real>0.2274509804</real>
+			<key>r</key>
+			<real>0.1960784314</real>
 		</dict>
 		<key>ForecastEventTimelineEventCellHighlightAlphaComponentColor</key>
 		<dict>
 			<key>a</key>
-			<real>0.25</real>
-			<key>w</key>
 			<real>0.0</real>
+			<key>b</key>
+			<real>0.24313725489999999</real>
+			<key>g</key>
+			<real>0.2274509804</real>
+			<key>r</key>
+			<real>0.1960784314</real>
 		</dict>
 		<key>ForecastEventTimelineGridlineLabelColor</key>
 		<dict>
@@ -1474,9 +1506,13 @@
 		<key>PerspectiveListSelectionColorAlphaComponentColor</key>
 		<dict>
 			<key>a</key>
-			<real>0.75</real>
-			<key>w</key>
 			<real>0.0</real>
+			<key>b</key>
+			<real>0.24313725489999999</real>
+			<key>g</key>
+			<real>0.2274509804</real>
+			<key>r</key>
+			<real>0.1960784314</real>
 		</dict>
 		<key>ReviewBarBorderColor</key>
 		<dict>
@@ -1591,9 +1627,13 @@
 		<key>SidebarSelectionColorAlphaComponentColor</key>
 		<dict>
 			<key>a</key>
-			<real>0.75</real>
-			<key>w</key>
-			<real>0.0</real>
+			<real>0.10000000000000001</real>
+			<key>b</key>
+			<real>0.24313725489999999</real>
+			<key>g</key>
+			<real>0.2274509804</real>
+			<key>r</key>
+			<real>0.1960784314</real>
 		</dict>
 		<key>SidebarStatusBarBorderColor</key>
 		<dict>
