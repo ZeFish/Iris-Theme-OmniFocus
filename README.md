@@ -5,7 +5,7 @@ Everything is in the gray and there is no absolute black or white.
 
 Will try to keep it updated along with the future enhancement OmniGroup will add on the theme capabilities.
 
-Don't hesitate to give me your suggestions. I am mainly having fun playing with this but I'm not in any way a  designer.
+Don't hesitate to give me your suggestions. I am mainly having fun playing with this but I'm not in any way a  designer. You can also modify the theme to your need by downloading [OmniFocusColor](https://omnistaging.omnigroup.com/omnifocuscolors/) and suit it to your eyes.
 
 ### Feature
 * Evertything is grayed except for active task
