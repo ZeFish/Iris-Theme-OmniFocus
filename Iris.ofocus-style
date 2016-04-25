@@ -1283,7 +1283,7 @@
 		<key>OFIContentDefaultTaskTitleColor</key>
 		<dict>
 			<key>a</key>
-			<real>1</real>
+			<real>0.80000000000000004</real>
 			<key>b</key>
 			<real>0.24313725489999999</real>
 			<key>g</key>
