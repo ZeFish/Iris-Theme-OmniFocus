@@ -1437,7 +1437,7 @@
 		<key>OFIStrongTextColor</key>
 		<dict>
 			<key>a</key>
-			<real>0.80000000000000004</real>
+			<real>0.40000000000000002</real>
 			<key>b</key>
 			<real>0.24313725489999999</real>
 			<key>g</key>
@@ -1728,13 +1728,6 @@
 			<real>0.59999999999999998</real>
 			<key>w</key>
 			<real>0.0</real>
-		</dict>
-		<key>StatusCircleDesaturatedBackgroundColor</key>
-		<dict>
-			<key>a</key>
-			<real>1</real>
-			<key>w</key>
-			<real>1</real>
 		</dict>
 		<key>StatusCircleDueSoonColor</key>
 		<dict>
